@@ -28,7 +28,15 @@
 * Find the length of the string
 
 
-## Session 5: Arrays
+## Session 5: Methods
+* Method Declaration
+* Method Definition
+* Invoking a Method
+* Passing Parameters
+* Return Values
+
+
+## Session 6: Arrays
 * Create an array to store marks
 * Iterate array using for loop
 * Iterate array using foreach loop
